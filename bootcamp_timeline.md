@@ -10,7 +10,7 @@
 3. Retrospective tool -  <span class="colour" style="color: rgb(212, 212, 212);">(login required) </span>[https://reetro-io.herokuapp.com/](https://reetro-io.herokuapp.com/)
 4. If the bootcamp sessions are virtual - we will kickoff a Zoom call. Each participant-coach pair will be switched to their individual breakout room after common team activities like standup/sprint planning.
 
-<br>
+
 | **Date** | **Participants** | **Timing/Duration** | **Workshops** | **Description** |
 | ---- | ------------ | --------------- | --------- | ----------- |
 | September 12th, 2020 | <ul><li>Participants</li><li>Tech Lead + Coaches</li><li>Product Lead + UI/UX Lead</li></ul> | 10.30AM - 3.30PM<br>(\~5 hours) | - | <ul><li>Kick off + Introductions</li><li>Product and wireframes&nbsp;overview</li><li>Teaming up w/ coaches</li><li>Sprint-1 planning + assignments</li></ul> |
