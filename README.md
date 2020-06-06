@@ -20,9 +20,9 @@
 
 | Workshop name/details | Date | Presenter | Links |
 | --------------------- | ---- | --------- | ----- |
-| Introduction to Agile | TBC | TBC<br>(@TBC) | TBC |
-| Introduction to Git | TBC | TBC<br>(@TBC) | TBC |
-| Introduction to Databases/SQL | TBC | TBC<br>(@TBC) | TBC |
-| Build your own CI/CD | TBC | TBC<br>(@TBC) | TBC |
+| Introduction to Agile | September 19th 2020 | TBC<br>(@TBC) | TBC |
+| Introduction to Git | October 10th 2020 | TBC<br>(@TBC) | TBC |
+| Introduction to Databases/SQL | October 31st 2020 | TBC<br>(@TBC) | TBC |
+| Build your own CI/CD | November 14th 2020 | TBC<br>(@TBC) | TBC |
 <br>
 <br>

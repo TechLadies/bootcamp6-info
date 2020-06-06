@@ -54,9 +54,9 @@ To stand out from the rest, you are highly encouraged to not follow a single onl
 Join us at our upcoming pre-bootcamp workshops where we will teach you the skills to complete the Technical Task!
 
 * Install Fest - 11 July 2020
-* Workshop #1 - 18 Jul 2020
-* Workshop #2 - 25 Jul 2020
-* Workshop #3 - 1 Aug 2020
+* Introduction to HTML & CSS - 18 Jul 2020
+* Introduction to VueJs - 25 Jul 2020
+* Introduction to REST Api using NodeJs & Express - 1 Aug 2020
 * Code Clinic - 8 Aug 2020
 
 Please install the [pre-requisite](pre_requisite_software.md) software before attending the sessions.
