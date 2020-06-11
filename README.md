@@ -7,6 +7,7 @@
 
 | Workshop name/details | Date/Time | Presenter | Links |
 | --------------------- | --------- | --------- | ----- |
+| Info Session | July 4th 2020 (10 AM) | Bootcamp Organisers | - |
 | Install Fest | July 11th 2020 (TBC) | TBC<br>(@TBC) | TBC |
 | Introduction to HTML & CSS | July 18th 2020 (TBC) | TBC<br>(@TBC) | TBC |
 | Introduction to VueJs | July 25th 2020 (TBC) | TBC<br>(@TBC) | TBC |
