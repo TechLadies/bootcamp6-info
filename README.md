@@ -8,11 +8,11 @@
 | Workshop name/details | Date/Time | Presenter | Links |
 | --------------------- | --------- | --------- | ----- |
 | Info Session | July 4th 2020 (10 AM) | Bootcamp Organisers | - |
-| Install Fest | July 11th 2020 (TBC) | TBC<br>(@TBC) | TBC |
-| Introduction to HTML & CSS | July 18th 2020 (TBC) | TBC<br>(@TBC) | TBC |
+| Install Fest | July 11th 2020 (10 AM) | All Builders | TBC |
+| Introduction to HTML & CSS | July 18th 2020 (10 AM) | Suk Yee Gong & Thomas Chia | TBC |
 | Introduction to VueJs | July 25th 2020 (TBC) | TBC<br>(@TBC) | TBC |
-| Introduction to REST Api using NodeJs & Express | August 1st 2020 (TBC) | TBC<br>(@TBC) | TBC |
-| Code clinic | August 8th 2020 (TBC) | All coaches | TBC |
+| Introduction to REST Api using NodeJs & Express | August 1st 2020 (10 AM) | Akshata Mohanty, Thomas Chia & Fara Blanco | TBC |
+| Code clinic | August 8th 2020 (TBC) | All Builders | TBC |
 
 ### Bootcamp
 
@@ -21,9 +21,9 @@
 
 | Workshop name/details | Date | Presenter | Links |
 | --------------------- | ---- | --------- | ----- |
-| Introduction to Agile | September 19th 2020 | TBC<br>(@TBC) | TBC |
-| Introduction to Git | October 10th 2020 | TBC<br>(@TBC) | TBC |
-| Introduction to Databases/SQL | October 31st 2020 | TBC<br>(@TBC) | TBC |
+| Introduction to Agile | September 19th 2020 | Neha Modi & Ying Tong Lai | TBC |
+| Introduction to Git | October 10th 2020 | Suk Yee Gong & Thomas Chia | TBC |
+| Introduction to Databases/SQL | October 31st 2020 | Fara Blanco, Ying Tong Lai & Neha Modi | TBC |
 | Build your own CI/CD | November 14th 2020 | TBC<br>(@TBC) | TBC |
 <br>
 <br>
