@@ -9,9 +9,9 @@
 | --------------------- | --------- | --------- | ----- |
 | Info Session | July 4th 2020<br>(10 AM) | Bootcamp Organisers | - |
 | Install Fest | July 11th 2020 | All Builders | TBC |
-| Introduction to HTML & CSS | July 18th 2020 | Suk Yee Gong & Thomas Chia | TBC |
+| Introduction to HTML & CSS | July 18th 2020 | Suk Yee Gong & Thomas Chia | [Repo (WIP)](git@github.com:TechLadies/bootcamp6-info.git) |
 | Introduction to VueJs | July 25th 2020<br> | TBC<br>(@TBC) | TBC |
-| Introduction to REST Api using NodeJs & Express | August 1st 2020 | Akshata Mohanty, Thomas Chia & Fara Blanco | TBC |
+| Introduction to REST Api using NodeJs & Express | August 1st 2020 | Akshata Mohanty, Thomas Chia & Fara Blanco | [Repo (WIP)](https://github.com/TechLadies/pre-bootcamp-workshop5-2020) |
 | Code clinic | August 8th 2020 (10 AM) | All Builders | TBC |
 
 ### Bootcamp
