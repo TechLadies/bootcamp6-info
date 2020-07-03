@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The TechLadies Bootcamp is a 13-week part-time accelerated learning program designed for women who wish to be professional programmers. Participants will be guided by industry experts to create products for different NGOs.
+The TechLadies Bootcamp is a 14-week part-time accelerated learning program designed for women who wish to be professional programmers. Participants will be guided by industry experts to create products for different NGOs.
 
 Visit the [bootcamp info](http://www.techladies.co/bootcamp-6) page for more details.
 
