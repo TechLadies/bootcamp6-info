@@ -53,6 +53,8 @@ To stand out from the rest, you are highly encouraged to not follow a single onl
 
 Join us at our upcoming pre-bootcamp workshops where we will teach you the skills to complete the Technical Task!
 
+Please sign up for each of the below pre-bootcamp sessions here - https://www.eventbrite.sg/o/techladies-11040976589
+
 * Install Fest - 11 July 2020
 * Introduction to HTML & CSS - 18 Jul 2020
 * Introduction to VueJs - 25 Jul 2020
