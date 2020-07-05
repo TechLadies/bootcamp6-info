@@ -7,7 +7,7 @@
 
 | Workshop name/details | Date/Time | Presenter | Links |
 | --------------------- | --------- | --------- | ----- |
-| Info Session | July 4th 2020<br>(10 AM) | Bootcamp Organisers | - |
+| Info Session | July 4th 2020<br>(10 AM) | Bootcamp Organisers | [Info Session Recording](https://www.facebook.com/groups/1138878776172656/wp/199978778020782/) |
 | Install Fest | July 11th 2020 | All Builders | TBC |
 | Introduction to HTML & CSS | July 18th 2020 | Suk Yee Gong & Thomas Chia | [Repo (WIP)](https://github.com/TechLadies/pre-bootcamp-workshop3-2020) |
 | Introduction to VueJs | July 25th 2020<br> | Jen Looper (Vue Vixens/Microsoft) | TBC |
