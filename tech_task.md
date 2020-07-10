@@ -46,7 +46,9 @@ To stand out from the rest, you are highly encouraged to not follow a single onl
 1. After you have finished building your personal website, you will need to share the source code with us. You should do so:
     * Through a link to a Git repository on [GitHub](https://github.com) or [Bitbucket](https://bitbucket.com) (its free!)
     * Through a link to a Zip file on [Dropbox](https://dropbox.com) or [Google Drive](https://drive.google.com).
-    * Create a new repo and [push your commits in](https://help.github.com/en/articles/pushing-commits-to-a-remote-repository).
+    * Create a new repo and [push your commits in](https://help.github.com/en/articles/pushing-commits-to-a-remote-repository).  
+   
+    Note: We highly encourage you to submit using the options indicated above. If, however, you are unable to code locally on your computer/laptop we will accept [codesandbox](https://codesandbox.io/) submissions. In your email to us, please send us a short abstract of the problems you faced in local development. 
 2. Email the repo link or the uploaded Zip link to <b>[bootcamp@techladies.co](mailto:bootcamp@techladies.co)</b>
 
 ## How do I get started?
