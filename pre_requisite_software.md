@@ -11,7 +11,7 @@ Here is a list of sofware that you will need to install to participate in the Pr
 1. **NodeJS**
     * *This is for running JavaScript on your computer without using a web browser.*
     * Download and install from the NodeJS website: [https://nodejs.org/en/](https://nodejs.org/en/)
-    * Recommended Version: **10.16.3 LTS**
+    * Recommended Version: **12.18.2 LTS**
     * MacOS & Linux OS users may use [NVM](https://github.com/nvm-sh/nvm) to install in your laptop.
 2. **Visual Studio Code - Text Editor**
     * *This is for creating and making changes to your JavaScript source code.*
