@@ -21,8 +21,9 @@
 
 | Workshop name/details | Date | Presenter | Links |
 | --------------------- | ---- | --------- | ----- |
-| Introduction to Agile | September 19th 2020 | Neha Modi & Ying Tong Lai | TBC |
-| Introduction to Git | October 10th 2020 | Suk Yee Gong & Thomas Chia | TBC |
+| Level-up with VueJs | September 12th 2020 | Aaron Gong & Arjay Aelbore | TBC |
+| Introduction to Agile | September 19th 2020 | Chor Yi Poon | TBC |
+| Introduction to Git | September 19th 2020 | Suk Yee Gong & Thomas Chia | TBC |
 | Introduction to Databases/SQL | October 31st 2020 | Fara Blanco, Ying Tong Lai & Neha Modi | TBC |
 | Build your own CI/CD | November 14th 2020 | TBC<br>(@TBC) | TBC |
 <br>
