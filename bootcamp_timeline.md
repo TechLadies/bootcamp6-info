@@ -25,5 +25,4 @@
 | November 21st, 2020 | <ul><li>Participants</li><li>Tech Lead + Coaches</li></ul> | 10.30AM - 3.30PM<br>(\~3-5 hours) | - | <ul><li>Stand-up</li><li>Pair programming w/ coach</li></ul> |
 | November 28th, 2020 | <ul><li>Participants</li><li>Tech Lead + Coaches</li><li>Product Lead + UI/UX Lead</li></ul> | 10.30AM - 3.30PM<br>(\~5 hours) | - | <ul><li>Stand-up</li><li>Sprint-3 review &amp; retrospective</li><li>Sprint-4 planning</li><li>Pair programming w/ coach</li></ul> |
 | December 5th, 2020 | <ul><li>Participants</li><li>Tech Lead + Coaches</li></ul> | 10.30AM - 3.30PM<br>(\~5 hours) | - | <ul><li>Stand-up</li><li>Pair programming w/ coach</li></ul> |
-| December 12th, 2020 | <ul><li>Participants</li><li>Tech Lead + Coaches</li></ul> | 10.30AM - 3.30PM<br>(\~3-5 hours) | - | <ul><li>Stand-up</li><li>Pair programming w/ coach</li></ul> |
-|  | <ul><li>Participants</li><li>Tech Lead + Coaches</li><li>Product Lead + UI/UX Lead</li></ul> | 10.30AM - 3.30PM<br>(\~5 hours) | - | <ul><li>Stand-up</li><li>Sprint-4 review &amp; final retrospective</li></ul> |
+| December 12th, 2020 | <ul><li>Participants</li><li>Tech Lead + Coaches</li><li>Product Lead + UI/UX Lead</li></ul> | 10.30AM - 3.30PM<br>(\~5 hours) | - | <ul><li>Stand-up</li><li>Pair programming w/ coach</li><li>Sprint-4 review &amp; final retrospective</li></ul> |
