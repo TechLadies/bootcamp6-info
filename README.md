@@ -8,11 +8,11 @@
 | Workshop name/details | Date/Time | Presenter | Links |
 | --------------------- | --------- | --------- | ----- |
 | Info Session | July 4th 2020<br>(10 AM) | Bootcamp Organisers | [Info Session Recording](https://www.facebook.com/groups/1138878776172656/wp/199978778020782/) |
-| Install Fest | July 11th 2020 | All Builders | TBC |
-| Introduction to HTML & CSS | July 18th 2020 | Suk Yee Gong & Thomas Chia | [Repo](https://github.com/TechLadies/pre-bootcamp-workshop3-2020) |
-| Introduction to VueJs | July 25th 2020<br> | Jen Looper (Vue Vixens/Microsoft) | TBC |
+| Install Fest | July 11th 2020 | All Builders | - |
+| Introduction to HTML & CSS | July 18th 2020 | Suk Yee Gong & Thomas Chia | [Repo](https://github.com/TechLadies/pre-bootcamp-workshop3-2020) & [Slides](https://docs.google.com/presentation/d/14yvKRzjayXlXyn5Wxhzr7k53g6TBCirfYE2N7ciESWo/) |
+| Introduction to VueJs | July 25th 2020 | Jen Looper (Vue Vixens/Microsoft) | [Step by step workshop](https://workshops.vuevixens.org/workshops/vue/minis/mini1.html) |
 | Introduction to REST Api using NodeJs & Express | August 1st 2020 | Akshata Mohanty, Thomas Chia & Fara Blanco | [Repo (WIP)](https://github.com/TechLadies/pre-bootcamp-workshop5-2020) |
-| Code clinic | August 8th 2020 (10 AM) | All Builders | TBC |
+| Code clinic | August 8th 2020 (10 AM) | All Builders | - |
 
 ### Bootcamp
 
@@ -25,6 +25,6 @@
 | Introduction to Agile | September 19th 2020 | Chor Yi Poon | TBC |
 | Introduction to Git | September 19th 2020 | Suk Yee Gong & Thomas Chia | TBC |
 | Introduction to Databases/SQL | October 31st 2020 | Fara Blanco, Ying Tong Lai & Neha Modi | TBC |
-| Build your own CI/CD | November 14th 2020 | TBC<br>(@TBC) | TBC |
+| Build your own CI/CD | November 14th 2020 | TBC | TBC |
 <br>
 <br>
