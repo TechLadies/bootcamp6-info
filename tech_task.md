@@ -49,7 +49,7 @@ To stand out from the rest, you are highly encouraged to not follow a single onl
     * Create a new repo and [push your commits in](https://help.github.com/en/articles/pushing-commits-to-a-remote-repository).  
    
     Note: We highly encourage you to submit using the options indicated above. If, however, you are unable to code locally on your computer/laptop we will accept [codesandbox](https://codesandbox.io/) submissions. In your email to us, please send us a short abstract of the problems you faced in local development. 
-2. [Fill up the application form here before 15 Aug, 11:59pm (SGT).](https://docs.google.com/forms/d/e/1FAIpQLSc66jARY5zZctni3kXVXAAhgZTjPqvE8mOvFJJfB-zyH_Q6LQ/viewform) Please email any questions to <b>[bootcamp@techladies.co](mailto:bootcamp@techladies.co)</b>
+2. <b>[Fill up the application form here before 15 Aug, 11:59pm (SGT).](https://docs.google.com/forms/d/e/1FAIpQLSc66jARY5zZctni3kXVXAAhgZTjPqvE8mOvFJJfB-zyH_Q6LQ/viewform)</b> Please email any questions to <b>[bootcamp@techladies.co](mailto:bootcamp@techladies.co)</b>
 
 ## How do I get started?
 
